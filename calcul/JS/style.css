@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#structure{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 215px;
+    height: 275px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: rgba(173, 75, 75, 0.829);
+}
+
+#screen{
+    background-color: whitesmoke;
+    width: 90%;
+    height: 10%;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 0 2px;
+    font-weight: bold;
+}
+
+.line{
+    flex-direction: row;
+}
+
+.click{
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin: 1px;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+
+#buttons{
+    display: flex;
+    flex-direction: column;
+}
