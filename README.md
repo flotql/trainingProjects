@@ -1,5 +1,6 @@
 # trainingProjects
  Training my coding skills 
 
-I'm using ideas from https://github.com/florinpop17/app-ideas
-Thanks !
+Here to learn, using resources from a lot of websites !
+ -https://github.com/gophercises
+ -https://github.com/florinpop17/app-ideas
